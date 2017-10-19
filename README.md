@@ -1,0 +1,1 @@
+GETHiQL postgres schema
